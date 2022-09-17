@@ -1,0 +1,21 @@
+{
+  "name": "await-to-js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "dist/await-to-js.umd.js",
+  "module": "dist/await-to-js.es5.js",
+  "typings": "dist/types/await-to-js.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosquito18/await-to-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosquito18/await-to-js/issues"
+  },
+  "homepage": "https://github.com/mosquito18/await-to-js#readme"
+}
